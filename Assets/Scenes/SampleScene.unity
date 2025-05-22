@@ -841,9 +841,17 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2430740031518218066, guid: 4ebe8898b98356b4b9a1db23700ce544, type: 3}
+      propertyPath: maxSpeed
+      value: 1.02
+      objectReference: {fileID: 0}
+    - target: {fileID: 2430740031518218066, guid: 4ebe8898b98356b4b9a1db23700ce544, type: 3}
       propertyPath: bulletSpawn
       value: 
       objectReference: {fileID: 206374018}
+    - target: {fileID: 2430740031518218066, guid: 4ebe8898b98356b4b9a1db23700ce544, type: 3}
+      propertyPath: acceleration
+      value: 500
+      objectReference: {fileID: 0}
     - target: {fileID: 2430740031518218066, guid: 4ebe8898b98356b4b9a1db23700ce544, type: 3}
       propertyPath: movementSpeed
       value: 5
